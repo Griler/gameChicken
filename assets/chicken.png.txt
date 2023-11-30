@@ -1,0 +1,1 @@
+chicken_01.png.png 8 4, chicken_02.png.png 88 8, chicken_03.png.png 168 8, chicken_04.png.png 8 104, chicken_05.png.png 84 100, chicken_06.png.png 164 104, chicken_07.png.png 0 204, chicken_08.png.png 84 204.

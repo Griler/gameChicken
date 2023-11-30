@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "chickenInde",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 0.8,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d3f618a3-243a-4769-9667-1465d1efa736"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "c6d363af-86cc-4d50-acf3-c7ca72b4e27a"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "4092fade-8706-4cc8-89f2-6e535e931885"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "48e0162e-ea70-4b17-a9c8-7d8a5983d2f1"
+            }
+          },
+          {
+            "frame": 0.18333333333333332,
+            "value": {
+              "__uuid__": "e0f802c1-6500-48ee-8046-8dcfdb1d1255"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "0f054065-7cc6-469d-ad53-bdbf0e1f6c73"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "fbee88e7-c2bd-47d6-b659-4262fbaeeac6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
